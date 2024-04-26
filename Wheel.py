@@ -26,7 +26,9 @@ geyList = ["Abort","Osu","Desc men","War","Halla","Business Tour","Crab Gey",
             "Apex","Ranch","Hardest Gey","Diep","Road Blocks","Over 2","Ight",
             "Mince","Discord/Jklm","Moomoo.io","Mope.io","Shellshock","Spiltgate","Rouge",
             "Lethal","Toms","Destiny","Bluestacks","Pixel Gun","Rainworld","Itchi.io",
-            "Grabity","Astro","Rounds", "Mogus", "One Arm"]
+            "Grabity","Astro","Rounds", "Mogus", "One Arm", "Sap", "MCD",
+            "Speedrunners", "Ants", "Divers", "Thieves", "Stardew", "Content", "CS2",
+            "Unrailed", "Stick Fight"]
 
 #The Gey Options
 nah = 0
@@ -38,7 +40,9 @@ twoPlayer   = [geyList.index("Fps Chess"), geyList.index("Shellshock")]
 threePlayer = [geyList.index("Knock"), geyList.index("Apex"), geyList.index("Rouge")]
 fourPlayer  = [geyList.index("Desc men"), geyList.index("War"), geyList.index("Halla"), geyList.index("Business Tour"), 
                geyList.index("Drunk"), geyList.index("Monster Rise"), geyList.index("Phas"), geyList.index("E Od Oder"), 
-               geyList.index("Rainworld"), geyList.index("Grabity"), geyList.index("Rounds"), geyList.index("One Arm")]
+               geyList.index("Rainworld"), geyList.index("Grabity"), geyList.index("Rounds"), geyList.index("One Arm")
+              geyList.index("Speedrunners") geyList.index("Ants") geyList.index("Divers") geyList.index("Stardew")
+              geyList.index("Content"), geyList.index("MCD")]
 fivePlayer  = [geyList.index("Ranch"), geyList.index("Hardest Gey"), geyList.index("Over 2"), geyList.index("Ight"), 
                geyList.index("Toms")]
 
@@ -254,6 +258,30 @@ database = [
     [d_u, gey, gey, gey, gey],
     # 47. One Arm
     [gey, gey, gey, gey, gey],
+    # 48. Sap
+    [d_u, d_u, d_u, yes, d_u],
+    # 49. MCD
+    [nah, yes, nah, yes, nah],
+    # 50. Speedrunners
+    [nah, nah, nah, nah, nah],
+    #51. Ants
+    [nah, nah, nah, nah, nah],
+    #52. Divers
+    [nah, nah, nah, nah, nah],
+    #53. Thieves
+    [nah, nah, nah, nah, nah],
+    #53. Stardew
+    [nah, nah, gey, gey, nah],
+    #53. TABG
+    [d_u, d_u, d_u, yes, d_u],
+    #53. Content
+    [nah, nah, nah, yes, yes],
+    #53. CS2
+    [nah, nah, nah, yes, yes],
+    #54. Unrailed
+    [yes, nah, nah, yes, nah],
+    #55. Stick Fight
+    [nah, yes, nah, yes, nah],
 ]
 
 """
