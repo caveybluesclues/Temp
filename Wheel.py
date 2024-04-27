@@ -27,7 +27,7 @@ geyList = ["Abort","Osu","Desc men","War","Halla","Business Tour","Crab Gey",
             "Mince","Discord/Jklm","Moomoo.io","Mope.io","Shellshock","Spiltgate","Rouge",
             "Lethal","Toms","Destiny","Bluestacks","Pixel Gun","Rainworld","Itchi.io",
             "Grabity","Astro","Rounds", "Mogus", "One Arm", "Sap", "MCD",
-            "Speedrunners", "Ants", "Divers", "Thieves", "Stardew", "Content", "CS2",
+            "Speedrunners", "Ants", "Helldivers", "Thieves", "Stardew", "Content", "CS2",
             "Unrailed", "Stick Fight"]
 
 #The Gey Options
@@ -266,22 +266,22 @@ database = [
     [nah, nah, nah, nah, nah],
     #51. Ants
     [nah, nah, nah, nah, nah],
-    #52. Divers
+    #52. Helldivers
     [nah, nah, nah, nah, nah],
     #53. Thieves
     [nah, nah, nah, nah, nah],
     #53. Stardew
     [nah, nah, gey, gey, nah],
     #53. TABG
-    [d_u, d_u, d_u, yes, d_u],
+    [d_u, d_u, d_u, gey, d_u],
     #53. Content
-    [nah, nah, nah, yes, yes],
+    [nah, nah, nah, gey, gey],
     #53. CS2
-    [nah, nah, nah, yes, yes],
+    [nah, nah, nah, gey, gey],
     #54. Unrailed
-    [yes, nah, nah, yes, nah],
+    [gey, nah, nah, gey, nah],
     #55. Stick Fight
-    [nah, yes, nah, yes, nah],
+    [nah, gey, nah, gey, nah],
 ]
 
 """
