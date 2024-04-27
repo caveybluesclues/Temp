@@ -21,14 +21,14 @@ quit = False
 
 #The Gey List
 geyList = ["Abort","Osu","Desc men","War","Halla","Business Tour","Crab Gey",
-            "Drunk","Fps Chess", "Garry","Terraria","Monster Rise","Muck","Phas",
-            "Maddog","Space War","E Od Oder","Chimpkin","Meag","Knock","Ark",
-            "Apex","Ranch","Hardest Gey","Diep","Road Blocks","Over 2","Ight",
-            "Mince","Discord/Jklm","Moomoo.io","Mope.io","Shellshock","Spiltgate","Rouge",
-            "Lethal","Toms","Destiny","Bluestacks","Pixel Gun","Rainworld","Itchi.io",
-            "Grabity","Astro","Rounds", "Mogus", "One Arm", "Sap", "MCD",
-            "Speedrunners", "Ants", "Helldivers", "Thieves", "Stardew", "Content", "CS2",
-            "Unrailed", "Stick Fight"]
+           "Drunk","Fps Chess", "Garry","Terraria","Monster Rise","Muck","Phas",
+           "Maddog","Space War","E Od Oder","Chimpkin","Meag","Knock","Ark",
+           "Apex","Ranch","Hardest Gey","Diep","Road Blocks","Over 2","Ight",
+           "Mince","Discord/Jklm","Moomoo.io","Mope.io","Shellshock","Spiltgate","Rouge",
+           "Lethal","Toms","Destiny","Bluestacks","Pixel Gun","Rainworld","Itchi.io",
+           "Grabity","Astro","Rounds", "Mogus", "One Arm", "Sap", "MCD",
+           "Speed", "Ants", "Helldivers", "Thieves", "Stardew", "Content", "CS2",
+           "Unrailed", "Stick Fight"]
 
 #The Gey Options
 nah = 0
@@ -262,7 +262,7 @@ database = [
     [d_u, d_u, d_u, yes, d_u],
     # 49. MCD
     [nah, yes, nah, yes, nah],
-    # 50. Speedrunners
+    # 50. Speed
     [nah, nah, nah, nah, nah],
     #51. Ants
     [nah, nah, nah, nah, nah],
