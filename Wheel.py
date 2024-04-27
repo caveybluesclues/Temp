@@ -40,7 +40,7 @@ twoPlayer   = [geyList.index("Fps Chess"), geyList.index("Shellshock")]
 threePlayer = [geyList.index("Knock"), geyList.index("Apex"), geyList.index("Rouge")]
 fourPlayer  = [geyList.index("Desc men"), geyList.index("War"), geyList.index("Halla"), geyList.index("Business Tour"), 
                geyList.index("Drunk"), geyList.index("Monster Rise"), geyList.index("Phas"), geyList.index("E Od Oder"), 
-               geyList.index("Rainworld"), geyList.index("Grabity"), geyList.index("Rounds"), geyList.index("One Arm")
+               geyList.index("Rainworld"), geyList.index("Grabity"), geyList.index("Rounds"), geyList.index("One Arm"),
               geyList.index("Speedrunners") geyList.index("Ants") geyList.index("Divers") geyList.index("Stardew")
               geyList.index("Content"), geyList.index("MCD")]
 fivePlayer  = [geyList.index("Ranch"), geyList.index("Hardest Gey"), geyList.index("Over 2"), geyList.index("Ight"), 
