@@ -21,7 +21,7 @@ quit = False
 
 #The Gey List
 geyList = ["Abort",     "Osu",          "Desc men",   "War",         "Halla",   "Business Tour", "Crab Gey",  "Drunk",    "Fps Chess",  "Garry",
-           "Tererer",   "Monster Rise", "Muck",       "Phas",        "Maddog",  "Space War",     "E Od Oder", "Chimpkin", "Meag",       "Knock",
+           "Terrerer",   "Monster Rise", "Muck",       "Phas",        "Maddog",  "Space War",     "E Od Oder", "Chimpkin", "Meag",       "Knock",
            "Ark",       "Apex",         "Ranch",      "Hardest Gey", "Diep",    "Road Blocks",   "Over 2",    "Ight",     "Mince",      "Discord/Jklm",
            "Moomoo.io", "Mope.io",      "Shellshock", "Spiltgate",   "Rouge",   "Lethal",        "Toms",      "Destiny",  "Bluestacks", "Pixel Gun",
            "Rainworld", "Itchi.io",     "Grabity",    "Astro",       "Rounds",  "Mogus",         "One Arm",   "Sap",      "MCD",         "Runners",
@@ -181,7 +181,7 @@ database = [
     [gey, gey, d_u, gey, gey],
     # 10. Garry
     [gey, gey, d_u, gey, d_u],
-    # 11. Terraria
+    # 11. Terrerer
     [gey, gey, d_u, gey, gey],
     # 12. Monster Rise
     [gey, gey, d_u, gey, nah],
