@@ -20,15 +20,12 @@ alivers = 0
 quit = False
 
 #The Gey List
-geyList = ["Abort","Osu","Desc men","War","Halla","Business Tour","Crab Gey",
-           "Drunk","Fps Chess", "Garry","Terraria","Monster Rise","Muck","Phas",
-           "Maddog","Space War","E Od Oder","Chimpkin","Meag","Knock","Ark",
-           "Apex","Ranch","Hardest Gey","Diep","Road Blocks","Over 2","Ight",
-           "Mince","Discord/Jklm","Moomoo.io","Mope.io","Shellshock","Spiltgate","Rouge",
-           "Lethal","Toms","Destiny","Bluestacks","Pixel Gun","Rainworld","Itchi.io",
-           "Grabity","Astro","Rounds", "Mogus", "One Arm", "Sap", "MCD",
-           "Speed", "Ants", "Helldivers", "Thieves", "Stardew", "Content", "CS2",
-           "Unrailed", "Stick Fight"]
+geyList = ["Abort",     "Osu",          "Desc men",   "War",         "Halla",   "Business Tour", "Crab Gey",  "Drunk",    "Fps Chess",  "Garry",
+           "Tererer",   "Monster Rise", "Muck",       "Phas",        "Maddog",  "Space War",     "E Od Oder", "Chimpkin", "Meag",       "Knock",
+           "Ark",       "Apex",         "Ranch",      "Hardest Gey", "Diep",    "Road Blocks",   "Over 2",    "Ight",     "Mince",      "Discord/Jklm",
+           "Moomoo.io", "Mope.io",      "Shellshock", "Spiltgate",   "Rouge",   "Lethal",        "Toms",      "Destiny",  "Bluestacks", "Pixel Gun",
+           "Rainworld", "Itchi.io",     "Grabity",    "Astro",       "Rounds",  "Mogus",         "One Arm",   "Sap",      "MCD",         "Runners",
+           "Ants",      "Helldivers",   "Thieves",    "Stardew",     "TABG",     "Content",      "CS2",       "Unrailed",  "Stick Fight"]
 
 #The Gey Options
 nah = 0
@@ -41,7 +38,7 @@ threePlayer = [geyList.index("Knock"), geyList.index("Apex"), geyList.index("Rou
 fourPlayer  = [geyList.index("Desc men"), geyList.index("War"), geyList.index("Halla"), geyList.index("Business Tour"), 
                geyList.index("Drunk"), geyList.index("Monster Rise"), geyList.index("Phas"), geyList.index("E Od Oder"), 
                geyList.index("Rainworld"), geyList.index("Grabity"), geyList.index("Rounds"), geyList.index("One Arm"),
-              geyList.index("Speedrunners"), geyList.index("Ants"), geyList.index("Divers"), geyList.index("Stardew"),
+              geyList.index("Runners"), geyList.index("Ants"), geyList.index("Helldivers"), geyList.index("Stardew"),
               geyList.index("Content"), geyList.index("MCD")]
 fivePlayer  = [geyList.index("Ranch"), geyList.index("Hardest Gey"), geyList.index("Over 2"), geyList.index("Ight"), 
                geyList.index("Toms")]
@@ -259,28 +256,28 @@ database = [
     # 47. One Arm
     [gey, gey, gey, gey, gey],
     # 48. Sap
-    [d_u, d_u, d_u, yes, d_u],
+    [d_u, d_u, d_u, gey, d_u],
     # 49. MCD
-    [nah, yes, nah, yes, nah],
+    [nah, gey, nah, gey, nah],
     # 50. Speed
     [nah, nah, nah, nah, nah],
-    #51. Ants
+    # 51. Ants
     [nah, nah, nah, nah, nah],
-    #52. Helldivers
+    # 52. Helldivers
     [nah, nah, nah, nah, nah],
-    #53. Thieves
+    # 53. Thieves
     [nah, nah, nah, nah, nah],
-    #53. Stardew
+    # 54. Stardew
     [nah, nah, gey, gey, nah],
-    #53. TABG
+    # 55. TABG
     [d_u, d_u, d_u, gey, d_u],
-    #53. Content
+    # 56. Content
     [nah, nah, nah, gey, gey],
-    #53. CS2
+    # 57. CS2
     [nah, nah, nah, gey, gey],
-    #54. Unrailed
+    # 58. Unrailed
     [gey, nah, nah, gey, nah],
-    #55. Stick Fight
+    # 59. Stick Fight
     [nah, gey, nah, gey, nah],
 ]
 
