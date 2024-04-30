@@ -34,22 +34,25 @@ d_u = 2
 own = 3
 
 twoPlayer   = [geyList.index("Fps Chess"), geyList.index("Shellshock")]
+
 threePlayer = [geyList.index("Knock"), geyList.index("Apex"), geyList.index("Rouge")]
+
 fourPlayer  = [geyList.index("Desc men"), geyList.index("War"), geyList.index("Halla"), geyList.index("Business Tour"), 
                geyList.index("Drunk"), geyList.index("Monster Rise"), geyList.index("Phas"), geyList.index("E Od Oder"), 
                geyList.index("Rainworld"), geyList.index("Grabity"), geyList.index("Rounds"), geyList.index("One Arm"),
               geyList.index("Runners"), geyList.index("Ants"), geyList.index("Helldivers"), geyList.index("Stardew"),
               geyList.index("Content"), geyList.index("MCD")]
+
 fivePlayer  = [geyList.index("Ranch"), geyList.index("Hardest Gey"), geyList.index("Over 2"), geyList.index("Ight"), 
                geyList.index("Toms")]
 
 print("====================================")
-print("= ALL POSSIBLE GEY LIST PROGRAM!!! =")
+print("= ALL POSSIBLE GEY LIST!!! =")
 print("====================================")
 
 """
 --------------------------------------------------------------------
-Questions
+QUESTIONS
 --------------------------------------------------------------------
 """
 #Drafts asians
@@ -155,7 +158,7 @@ if willing == True:
 
 """
 --------------------------------------------------------------------
-Database
+MATRIX
 --------------------------------------------------------------------
 """
 # Order: Cavey, Deeswa, Thien, Dudwen, Deft
@@ -283,7 +286,7 @@ database = [
 
 """
 --------------------------------------------------------------------
-Calculations
+CALCULATIONS
 --------------------------------------------------------------------
 """
 #Congrats if you can understand this (@_@)
@@ -337,7 +340,7 @@ if alivers > 5:
 
 """
 --------------------------------------------------------------------
-Display
+DISPLAY
 --------------------------------------------------------------------
 """
 #Prints all possible gey list
