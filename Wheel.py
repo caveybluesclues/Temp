@@ -200,7 +200,7 @@ database = [
     # 19. Meag
     [gey, gey, d_u, d_u, nah],
     # 20. Knock
-    [d_u, gey, d_u, d_u, d_u],
+    [nah, nah, nah, nah, nah],
     # 21. Ark
     [d_u, gey, nah, d_u, nah],
     # 22. Apex
