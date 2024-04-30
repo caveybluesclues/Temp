@@ -343,9 +343,9 @@ Display
 #Prints all possible gey list
 print("\nList of possible GEYS")
 for games in range(len(database)):
-    if (database[games][ID.index("cavey")] == 
+    if (database[games][ID.index("cavey")]  == 
         database[games][ID.index("deeswa")] == 
-        database[games][ID.index("thien")] == 
+        database[games][ID.index("thien")]  == 
         database[games][ID.index("dudwen")] == 
-        database[games][ID.index("deft")] == gey):
+        database[games][ID.index("deft")]   == gey):
         print(geyList[games])
